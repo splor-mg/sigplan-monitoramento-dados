@@ -1,14 +1,14 @@
 name: sigplan-monitoramento-dados
 resources:
-  - name: fact
-    path: data-raw/fact.txt
+  - name: acoes_monitoramento
+    path: data-raw/acoes_monitoramento.txt
     format: csv
-    encoding: utf-8
+    encoding: windows-1252
     dialect: dialect.yaml
-    schema: schemas/fact.yaml
-  - name: dim
-    path: data-raw/dim.txt
+    schema: schemas/acoes_monitoramento.yaml
+  - name: localizadores_monitoramento_todos
+    path: data-raw/localizadores_monitoramento_todos.txt
     format: csv
-    encoding: utf-8
+    encoding: windows-1252
     dialect: dialect.yaml
-    schema: schemas/dim.yaml
+    schema: schemas/localizadores_monitoramento_todos.yaml
