@@ -65,52 +65,76 @@ fields:
     type: string
   - name: Previsão Orçamentária 2023 (LOA)
     type: number
+    decimalChar: ","
   - name: Orç. Programado Inicial de Jan a Jun
     type: number
+    decimalChar: ","
   - name: Prog. Inicial Outras Desp. Jan
     type: number
+    decimalChar: ","
   - name: Prog. Inicial Outras Desp. Fev
     type: number
+    decimalChar: ","
   - name: Prog. Inicial Outras Desp. Mar
     type: number
+    decimalChar: ","
   - name: Prog. Inicial Outras Desp. Abr
     type: number
+    decimalChar: ","
   - name: Prog. Inicial Outras Desp. Mai
     type: number
+    decimalChar: ","
   - name: Prog. Inicial Outras Desp. Jun
     type: number
+    decimalChar: ","
   - name: Total Prog. Inicial Outras Desp.
     type: number
+    decimalChar: ","
   - name: Prog. Inicial Desp. Pessoal e Auxílios Jan
     type: number
+    decimalChar: ","
   - name: Prog. Inicial Desp. Pessoal e Auxílios Fev
     type: number
+    decimalChar: ","
   - name: Prog. Inicial Desp. Pessoal e Auxílios Mar
     type: number
+    decimalChar: ","
   - name: Prog. Inicial Desp. Pessoal e Auxílios Abr
     type: number
+    decimalChar: ","
   - name: Prog. Inicial Desp. Pessoal e Auxílios Mai
     type: number
+    decimalChar: ","
   - name: Prog. Inicial Desp. Pessoal e Auxílios Jun
     type: number
+    decimalChar: ","
   - name: Total Prog. Inicial Desp. Pessoal e Auxílios
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Jan
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Fev
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Mar
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Abr
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Mai
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Jun
     type: number
+    decimalChar: ","
   - name: Crédito Autorizado 2023 (LOA + Créditos)
     type: number
+    decimalChar: ","
   - name: Despesa Realizada 2023
     type: number
+    decimalChar: ","
   - name: Previsão Física 2023
     type: integer
   - name: Fis Programado Inicial de Jan  a Jun

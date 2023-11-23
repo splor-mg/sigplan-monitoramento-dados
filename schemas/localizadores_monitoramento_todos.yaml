@@ -75,58 +75,85 @@ fields:
     type: string
   - name: Desp. Realizada Investimento Jan
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Outros Jan
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Pessoal e Auxílios Jan
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Jan
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Investimento Fev
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Outros Fev
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Pessoal e Auxílios Fev
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Fev
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Investimento Mar
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Outros Mar
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Pessoal e Auxílios Mar
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Mar
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Investimento Abr
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Outros Abr
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Pessoal e Auxílios Abr
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Abr
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Investimento Mai
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Outros Mai
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Pessoal e Auxílios Mai
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Mai
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Investimento Jun
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Outros Jun
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Pessoal e Auxílios Jun
     type: number
+    decimalChar: ","
   - name: Desp. Realizada Jun
     type: number
+    decimalChar: ","
   - name: Despesa Realizada Investimento 2023
     type: number
+    decimalChar: ","
   - name: Despesa Realizada Outros 2023
     type: number
+    decimalChar: ","
   - name: Despesa Realizada Pessoal e Auxílios 2023
     type: number
+    decimalChar: ","
   - name: Despesa Realizada Total 2023
     type: string
   - name: Previsão Física Inicial
