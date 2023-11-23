@@ -74,59 +74,59 @@ fields:
   - name: Município
     type: string
   - name: Desp. Realizada Investimento Jan
-    type: string
+    type: number
   - name: Desp. Realizada Outros Jan
-    type: string
+    type: number
   - name: Desp. Realizada Pessoal e Auxílios Jan
-    type: string
+    type: number
   - name: Desp. Realizada Jan
-    type: string
+    type: number
   - name: Desp. Realizada Investimento Fev
-    type: string
+    type: number
   - name: Desp. Realizada Outros Fev
-    type: string
+    type: number
   - name: Desp. Realizada Pessoal e Auxílios Fev
-    type: string
+    type: number
   - name: Desp. Realizada Fev
-    type: string
+    type: number
   - name: Desp. Realizada Investimento Mar
-    type: string
+    type: number
   - name: Desp. Realizada Outros Mar
-    type: string
+    type: number
   - name: Desp. Realizada Pessoal e Auxílios Mar
-    type: string
+    type: number
   - name: Desp. Realizada Mar
-    type: string
+    type: number
   - name: Desp. Realizada Investimento Abr
-    type: string
+    type: number
   - name: Desp. Realizada Outros Abr
-    type: string
+    type: number
   - name: Desp. Realizada Pessoal e Auxílios Abr
-    type: string
+    type: number
   - name: Desp. Realizada Abr
-    type: string
+    type: number
   - name: Desp. Realizada Investimento Mai
-    type: string
+    type: number
   - name: Desp. Realizada Outros Mai
-    type: string
+    type: number
   - name: Desp. Realizada Pessoal e Auxílios Mai
-    type: string
+    type: number
   - name: Desp. Realizada Mai
-    type: string
+    type: number
   - name: Desp. Realizada Investimento Jun
-    type: string
+    type: number
   - name: Desp. Realizada Outros Jun
-    type: string
+    type: number
   - name: Desp. Realizada Pessoal e Auxílios Jun
-    type: string
+    type: number
   - name: Desp. Realizada Jun
-    type: string
+    type: number
   - name: Despesa Realizada Investimento 2023
-    type: string
+    type: number
   - name: Despesa Realizada Outros 2023
-    type: string
+    type: number
   - name: Despesa Realizada Pessoal e Auxílios 2023
-    type: string
+    type: number
   - name: Despesa Realizada Total 2023
     type: string
   - name: Previsão Física Inicial

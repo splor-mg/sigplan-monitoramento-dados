@@ -64,53 +64,53 @@ fields:
   - name: Unidade de Medida do Produto
     type: string
   - name: Previsão Orçamentária 2023 (LOA)
-    type: integer
+    type: number
   - name: Orç. Programado Inicial de Jan a Jun
-    type: string
+    type: number
   - name: Prog. Inicial Outras Desp. Jan
-    type: string
+    type: number
   - name: Prog. Inicial Outras Desp. Fev
-    type: string
+    type: number
   - name: Prog. Inicial Outras Desp. Mar
-    type: string
+    type: number
   - name: Prog. Inicial Outras Desp. Abr
-    type: string
+    type: number
   - name: Prog. Inicial Outras Desp. Mai
-    type: string
+    type: number
   - name: Prog. Inicial Outras Desp. Jun
-    type: string
+    type: number
   - name: Total Prog. Inicial Outras Desp.
-    type: string
+    type: number
   - name: Prog. Inicial Desp. Pessoal e Auxílios Jan
-    type: string
+    type: number
   - name: Prog. Inicial Desp. Pessoal e Auxílios Fev
-    type: string
+    type: number
   - name: Prog. Inicial Desp. Pessoal e Auxílios Mar
-    type: string
+    type: number
   - name: Prog. Inicial Desp. Pessoal e Auxílios Abr
-    type: string
+    type: number
   - name: Prog. Inicial Desp. Pessoal e Auxílios Mai
-    type: string
+    type: number
   - name: Prog. Inicial Desp. Pessoal e Auxílios Jun
-    type: string
+    type: number
   - name: Total Prog. Inicial Desp. Pessoal e Auxílios
-    type: string
+    type: number
   - name: Desp. Realizada Jan
-    type: string
+    type: number
   - name: Desp. Realizada Fev
-    type: string
+    type: number
   - name: Desp. Realizada Mar
-    type: string
+    type: number
   - name: Desp. Realizada Abr
-    type: string
+    type: number
   - name: Desp. Realizada Mai
-    type: string
+    type: number
   - name: Desp. Realizada Jun
-    type: string
+    type: number
   - name: Crédito Autorizado 2023 (LOA + Créditos)
-    type: string
+    type: number
   - name: Despesa Realizada 2023
-    type: string
+    type: number
   - name: Previsão Física 2023
     type: integer
   - name: Fis Programado Inicial de Jan  a Jun
@@ -150,8 +150,8 @@ fields:
   - name: Ação Não Regionalizada?
     type: string
   - name: Justificativa da Não Regionalização
-    type: any
+    type: string
   - name: Objetivo
     type: string
   - name: Ação Transposta Durante Exercício
-    type: any
+    type: string
