@@ -179,3 +179,5 @@ fields:
     type: string
   - name: Ação Transposta Durante Exercício
     type: string
+  - name: ""
+    type: any

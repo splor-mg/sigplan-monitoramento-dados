@@ -184,3 +184,5 @@ fields:
     type: integer
   - name: Pessoa Remunerada Jun
     type: integer
+  - name: ""
+    type: any
