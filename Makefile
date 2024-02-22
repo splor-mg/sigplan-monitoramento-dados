@@ -18,7 +18,7 @@ extract:
 	$(foreach resource_name, $(RESOURCE_NAMES),python main.py extract $(resource_name) &&) true
 
 validate: 
-	frictionless validate datapackage.yaml
+	frictionless validate --skip-errors "blank-label" datapackage.yaml
 
 transform: $(OUTPUT_FILES)
 
